@@ -47,6 +47,7 @@ public class FieldTest {
             //3.变量名
             String name = fl.getName();
             System.out.println(name);
+            System.out.println();
         }
     }
 }
